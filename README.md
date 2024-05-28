@@ -1,4 +1,4 @@
-# ID.Butnz a.k.a ID.Buttons
+# ID.Batnz a.k.a ID.Buttons
 Conventional "real" button controls for VW's MEB (electric) platform. 
 
 Click. Done. Brings back the nostalgia of physical controls...
@@ -21,4 +21,4 @@ While some manufacturers and brands are moving back to dedicated buttons for the
 We have started with design and prototyping and expect to have working code by the end of summer.
 
 ## What's next
-Let us know if the ID.Butnz [interest you](</discussions/2>) and what [kind of functions](https://github.com/JohnyForElectric/ID.Butnz/discussions/3) you would like to be able to control.
+Let us know if the ID.Buttons [interest you](https://github.com/JohnyForElectric/ID.Butnz/discussions/2) and [what kind of functions](https://github.com/JohnyForElectric/ID.Butnz/discussions/3) would you like to be able to control or observe.
