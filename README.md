@@ -1,10 +1,11 @@
 # ID.Butnz a.k.a ID.Buttons
-Conventional "real" button controls for VW's MEB (electric) platform. Click. Done. Brings back the nostalgia of physical controls...
+Conventional "real" button controls for VW's MEB (electric) platform. 
+
+Click. Done. Brings back the nostalgia of physical controls...
 
 <div align="center">
   <img src="https://github.com/JohnyForElectric/ID.Butnz/assets/107234448/bb590b63-d4ad-4812-84ec-39ec58075f6a" alt="(ID.Butnz)" width="300px">
 </div>
-![ID Butnz 1 small](https://github.com/JohnyForElectric/ID.Butnz/assets/107234448/bb590b63-d4ad-4812-84ec-39ec58075f6a)
 
 ## What
 We are excited to announce developement of **ID.Butnz** a.k.a. **ID.Buttons** open source project that will bring back the option of physical button controls for select functions in VW's MEB platform. Initially designed for VW ID.4 electric vehicle, it will make it simpler to control specific car functions with physical buttons. Button functions can be either assigned to a specific car function (like heated seat stage 1) or to set of functions - we call them macros - like seat heater 1, steering wheel heating 2. The next level are smart macros, that automatically activated based on the vehicle state (like in reverse, switch to wide-angle camera). And much more.
@@ -18,4 +19,7 @@ We have started with design and prototyping and expect to have working code by t
 ## What's next
 Let us know if the ID.Butnz interest you and what kind of functions you would like to be able to control.
 
+<div align="center">
+  <img src="https://github.com/JohnyForElectric/ID.Butnz/assets/107234448/60e979f8-713c-4423-b0e7-4ad9a249a331" alt="(ID.Butnz)" width="300px">
+</div>
 
